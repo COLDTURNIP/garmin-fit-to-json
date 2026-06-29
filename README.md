@@ -8,6 +8,14 @@ Convert Garmin FIT activity files to a curated JSON summary with one native exec
 fit2json input.fit output.json
 ```
 
+## Install
+
+```sh
+go install github.com/COLDTURNIP/garmin-fit-to-json/cmd/fit2json@latest
+```
+
+Ensure `$GOBIN` or `$HOME/go/bin` is on your `PATH`.
+
 ## Build
 
 ```sh

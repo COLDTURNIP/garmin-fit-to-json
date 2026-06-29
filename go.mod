@@ -1,4 +1,4 @@
-module garmin-fit-to-json
+module github.com/COLDTURNIP/garmin-fit-to-json
 
 go 1.25.0
 

@@ -6,7 +6,7 @@ import (
 	"io"
 	"os"
 
-	"garmin-fit-to-json/internal/fitjson"
+	"github.com/COLDTURNIP/garmin-fit-to-json/internal/fitjson"
 )
 
 var version = "dev"
